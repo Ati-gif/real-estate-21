@@ -11,3 +11,4 @@ class Buyer < ApplicationRecord
       .order("price DESC")
   end
 end
+

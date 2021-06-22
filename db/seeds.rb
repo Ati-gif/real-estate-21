@@ -37,6 +37,7 @@ cities = [
       agent_id: a.id,
     )
   end
+  
 
   50.times do
     sold = Faker::Boolean.boolean(0.3)

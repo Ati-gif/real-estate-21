@@ -10,3 +10,4 @@ class Agent < ApplicationRecord
       .order("COUNT(*) DESC")
   end
 end
+
